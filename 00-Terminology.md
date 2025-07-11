@@ -1,0 +1,7 @@
+- training set
+- training example($m$ represents the total number of training example, which is a training set)
+- feature(input variable,$x$)
+- target(output variable,$y$)
+- model(a function/hypothesis $f$ conducted by a learning algorithm using training sets)
+- $\hat{y}=f(x)$,$\hat{y}$ is estimated value of $y$.
+- 
